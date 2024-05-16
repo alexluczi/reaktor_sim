@@ -1,0 +1,15 @@
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/bin/Debug/net8.0/reaktor_sim
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/bin/Debug/net8.0/reaktor_sim.deps.json
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/bin/Debug/net8.0/reaktor_sim.runtimeconfig.json
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/bin/Debug/net8.0/reaktor_sim.dll
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/bin/Debug/net8.0/reaktor_sim.pdb
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/reaktor_sim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/reaktor_sim.AssemblyInfoInputs.cache
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/reaktor_sim.AssemblyInfo.cs
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/reaktor_sim.csproj.CoreCompileInputs.cache
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/reaktor_sim.sourcelink.json
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/reaktor_sim.dll
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/refint/reaktor_sim.dll
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/reaktor_sim.pdb
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/reaktor_sim.genruntimeconfig.cache
+/Users/luczialex/Documents/GitHub/reaktor_sim/reaktor_sim/obj/Debug/net8.0/ref/reaktor_sim.dll
